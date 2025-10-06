@@ -9,6 +9,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import pkg.Calculadora;
+import pkg.Cuenta;
 
 class testCuenta {
 	
